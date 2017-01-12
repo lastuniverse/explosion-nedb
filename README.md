@@ -104,7 +104,7 @@ server.listen( port, function() {
 
 ## Participation in development
 ```
-https://github.com/lastuniverse/explosion/issues
+https://github.com/lastuniverse/explosion-nedb/issues
 ```
 ## License
 
@@ -115,4 +115,4 @@ MIT
 library development is not yet complete
 
 
-[![NPM](https://nodei.co/npm/explosion.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/explosion/)
+[![NPM](https://nodei.co/npm/explosion.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/explosion-nedb/)
