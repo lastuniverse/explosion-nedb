@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = require('./lib/explosion-nedb');
+module.exports = require('./lib/nedb');

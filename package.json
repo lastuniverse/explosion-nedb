@@ -1,11 +1,11 @@
 {
   "name": "explosion-nedb",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "nedb use whith explosion",
   "main": "index.js",
   "directories": {},
   "dependencies": {
-    "explosion": "^0.0.5",
+    "explosion": "",
     "nedb": "^1.8.0"
   },
   "devDependencies": {},
@@ -15,8 +15,10 @@
     "url": "git+https://github.com/lastuniverse/explosion-nedb.git"
   },
   "keywords": [
+    "server",
     "websocket",
     "explosion",
+    "database",
     "nedb"
   ],
   "author": "lastuniverse\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DRoman Surmanidze aka lastuniverse",
