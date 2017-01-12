@@ -1,0 +1,28 @@
+{
+  "name": "explosion-nedb",
+  "version": "0.0.1",
+  "description": "nedb use whith explosion",
+  "main": "index.js",
+  "directories": {},
+  "dependencies": {
+    "explosion": "^0.0.5",
+    "nedb": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lastuniverse/explosion-nedb.git"
+  },
+  "keywords": [
+    "websocket",
+    "explosion",
+    "nedb"
+  ],
+  "author": "lastuniverse\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DRoman Surmanidze aka lastuniverse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lastuniverse/explosion-nedb/issues"
+  },
+  "homepage": "https://github.com/lastuniverse/explosion-nedb#readme"
+}
