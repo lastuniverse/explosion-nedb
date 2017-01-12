@@ -1,6 +1,6 @@
 {
   "name": "explosion-nedb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "nedb use whith explosion",
   "main": "index.js",
   "directories": {},

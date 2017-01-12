@@ -115,4 +115,4 @@ MIT
 library development is not yet complete
 
 
-[![NPM](https://nodei.co/npm/explosion.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/explosion-nedb/)
+[![NPM](https://nodei.co/npm/explosion-nedb.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/explosion-nedb/)
